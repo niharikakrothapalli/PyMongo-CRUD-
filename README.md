@@ -3,7 +3,7 @@ Jupyter Notebook demonstrating CRUD operations on MongoDB
 
 Installation: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 
-Data: https://media.mongodb.org/zips.json
+Data Source: https://media.mongodb.org/zips.json
 
 To convert data into required format refer below:
 
